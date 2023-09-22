@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin, an <a href="https://www.linkedin.com/in/kevin-carranza-662a6a290/"></a>☺</h1>
+<h1>Hi, I'm Kevin <a href="https://www.linkedin.com/in/kevin-carranza-662a6a290/"></a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
